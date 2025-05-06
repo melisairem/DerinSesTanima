@@ -24,12 +24,12 @@ Ses sinyalleri kullanılarak konuşmacı ya da sınıf tespiti yapılması. Gird
 5. Performans değerlendirme ve sonuçların görselleştirilmesi
 
 ## 📁 Proje Dosya Yapısı
-├── DerinSesTanma.ipynb                # Ana notebook dosyası
-├── README.md                      
-├── requirements.txt                    # Gerekli kütüphaneler
-├── report/
-│ ├── Yapay Sinir Ağları Raporu.pdf     # PDF formatında ders raporu
-│ └── Yapay Sinir Ağları Sunum.pptx     # PowerPoint sunumu
+DerinSesTanıma.ipynb # Ana notebook dosyası
+README.md # Açıklama dosyası
+requirements.txt # Gerekli kütüphaneler
+report/
+├── Yapay Sinir Ağları Raporu.pdf # PDF formatında ders raporu
+└── Yapay Sinir Ağları Sunum.pptx # PowerPoint sunumu
 
 ## 🔧 Kurulum
 
